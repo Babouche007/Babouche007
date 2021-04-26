@@ -1,6 +1,6 @@
 Hi there
 
-<img src='https://tenor.com/view/cute-cute-cat-cat-dance-dance-danse-gif-17603476'>
+<img src='content.jpg'>
 
 <!--
 **Babouche007/Babouche007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
