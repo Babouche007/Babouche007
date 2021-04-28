@@ -1,4 +1,4 @@
-Hi there
+Hi there, I'm actually a student at Epita.
 
 <img src='content.jpg'>
 
