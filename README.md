@@ -1,4 +1,4 @@
-Hi there, I'm actually a student at Epita.
+Hi there, I'm currently a student at Epita.
 
 <img src='content.jpg'>
 
