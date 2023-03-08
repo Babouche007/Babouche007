@@ -1,3 +1,3 @@
-Hi there, I'm currently a student at Epita. In an intership at Snypa SARL
+Hi there, I'm a student at Epita. And I'm currently working as an interet in Big-Data
 
 ![](popcat.gif)
